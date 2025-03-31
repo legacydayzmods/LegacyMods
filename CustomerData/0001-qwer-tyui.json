@@ -1,0 +1,22 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "127.0.0.1",
+        "127.0.0.2",
+        "127.0.0.3"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test","project","name"],
+        ["test","project","name"]
+    ],
+    "mods": [
+        "mod1",
+        "mod2",
+        "mod3"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_debug_discord": 1,
+    "notification_text": "test"
+}
