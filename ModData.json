@@ -1,7 +1,6 @@
 {
     "engine_data": {
-        "version_enabled": -1,
-        "version_warning": -1,
+        "actual_version": -1,
         "enable_chek_ip": 1,
         "enable_chek_servername": 1,
         "enable_ip_notify": 1,
@@ -12,16 +11,13 @@
     },
     "mods_data": {
         "test": {
-            "version_enabled": -1,
-            "version_warning": -1
+            "actual_version": -1
         },
         "test2": {
-            "version_enabled": -1,
-            "version_warning": -1
+            "actual_version": -1
         },
         "test3": {
-            "version_enabled": -1,
-            "version_warning": -1
+            "actual_version": -1
         }
     }
 }
