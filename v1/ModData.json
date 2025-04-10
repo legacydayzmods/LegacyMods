@@ -5,8 +5,8 @@
         "enable_chek_servername": 1,
         "enable_ip_notify": 1,
         "enable_servername_notify": 1,
-        "whitelist_only_ip": 0,
-        "whitelist_only_servername": 0,
+        "whitelist_only_ip": 1,
+        "whitelist_only_servername": 1,
         "notification_text": "Тестовая нотификация для всех клиентов"
     },
     "mods_data": {
