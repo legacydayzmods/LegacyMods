@@ -15,6 +15,6 @@
         "mod2",
         "mod3"
     ],
-    "enable_ip_notify": 0,
-    "enable_servername_notify": 0
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1
 }
