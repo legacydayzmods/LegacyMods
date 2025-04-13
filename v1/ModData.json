@@ -1,0 +1,25 @@
+{
+    "engine_data": {
+        "actual_version": 2,
+        "enable_chek_ip": 1,
+        "enable_chek_servername": 1,
+        "enable_ip_notify": 1,
+        "enable_servername_notify": 1,
+        "enable_mod_notify": 1,
+        "whitelist_only_ip": 0,
+        "whitelist_only_servername": 0,
+        "whilelist_only_mod": 0,
+        "notification_text": "Тестовая нотификация для всех клиентов"
+    },
+    "mods_data": {
+        "test": {
+            "actual_version": -1
+        },
+        "test2": {
+            "actual_version": -1
+        },
+        "test3": {
+            "actual_version": -1
+        }
+    }
+}
