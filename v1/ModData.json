@@ -7,6 +7,7 @@
         "enable_servername_notify": 1,
         "whitelist_only_ip": 0,
         "whitelist_only_servername": 0,
+        "whilelist_only_mod": 0,
         "notification_text": "Тестовая нотификация для всех клиентов"
     },
     "mods_data": {
