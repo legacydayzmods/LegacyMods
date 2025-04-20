@@ -9,7 +9,7 @@
         "whitelist_only_ip": 1,
         "whitelist_only_servername": 0,
         "whilelist_only_mod": 0,
-        "notification_text": "Тестовая нотификация для всех клиентов"
+        "notification_text": ""
     },
     "mods_data": {
         "YRTSK_Furniture_Pack": {
