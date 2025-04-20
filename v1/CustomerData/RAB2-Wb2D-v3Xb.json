@@ -1,17 +1,15 @@
 {
     "is_active_key": 1,
     "ips": [
-        "87.71.20.208",
-        "127.0.0.2",
-        "127.0.0.4",
-        "127.0.0.5"
+        "185.189.255.142"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Furniture_Pack"
+        "YRTSK_Furniture_Pack",
+        "YRTSK_Armory_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
