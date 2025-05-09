@@ -8,7 +8,7 @@
         "enable_mod_notify": 1,
         "whitelist_only_ip": 1,
         "whitelist_only_servername": 0,
-        "whilelist_only_mod": 0,
+        "whilelist_only_mod": 1,
         "notification_text": ""
     },
     "mods_data": {
