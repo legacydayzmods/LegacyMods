@@ -1,14 +1,14 @@
 {
     "is_active_key": 1,
     "ips": [
-        "0.0.0.0"
+        "88.151.117.173"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Furniture_Pack"
+        "YRTSK_Cyborg_Sets"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
