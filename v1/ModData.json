@@ -20,6 +20,12 @@
         },
         "YRTSK_AlienPod": {
             "actual_version": -1
+        },
+        "YRTSK_Cyborg_Sets": {
+            "actual_version": -1
+        },
+        "YRTSK_Covenants_Elite": {
+            "actual_version": -1
         }
     }
 }
