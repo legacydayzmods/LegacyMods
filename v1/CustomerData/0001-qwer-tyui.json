@@ -10,7 +10,9 @@
     "mods": [
         "YRTSK_Furniture_Pack",
         "YRTSK_Armory_Pack",
-        "YRTSK_AlienPod"
+        "YRTSK_AlienPod",
+        "YRTSK_Cyborg_Sets",
+        "YRTSK_Covenants_Elite"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
