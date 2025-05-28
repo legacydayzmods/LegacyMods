@@ -12,7 +12,8 @@
         "YRTSK_Armory_Pack",
         "YRTSK_AlienPod",
         "YRTSK_Cyborg_Sets",
-        "YRTSK_Covenants_Elite"
+        "YRTSK_Covenants_Elite",
+        "YRTSK_Hero_Weapon_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
