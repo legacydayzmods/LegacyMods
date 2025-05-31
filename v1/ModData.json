@@ -29,6 +29,9 @@
         },
         "YRTSK_Hero_Weapon_Pack": {
             "actual_version": -1
+        },
+        "YRTSK_Vehicle_Dagor": {
+            "actual_version": -1
         }
     }
 }
