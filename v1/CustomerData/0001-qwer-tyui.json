@@ -14,7 +14,8 @@
         "YRTSK_Cyborg_Sets",
         "YRTSK_Covenants_Elite",
         "YRTSK_Hero_Weapon_Pack",
-        "YRTSK_Vehicle_Dagor"
+        "YRTSK_Vehicle_Dagor",
+        "YRTSK_ExoSoldier"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
