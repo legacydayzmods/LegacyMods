@@ -32,6 +32,9 @@
         },
         "YRTSK_Vehicle_Dagor": {
             "actual_version": -1
+        },
+        "YRTSK_ExoSoldier": {
+            "actual_version": -1
         }
     }
 }
