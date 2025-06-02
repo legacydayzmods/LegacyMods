@@ -35,6 +35,9 @@
         },
         "YRTSK_ExoSoldier": {
             "actual_version": -1
+        },
+        "YRTSK_Teleport_System": {
+            "actual_version": -1
         }
     }
 }
