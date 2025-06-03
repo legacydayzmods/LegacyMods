@@ -16,7 +16,8 @@
         "YRTSK_Hero_Weapon_Pack",
         "YRTSK_Vehicle_Dagor",
         "YRTSK_ExoSoldier",
-        "YRTSK_Teleport_System"
+        "YRTSK_Teleport_System",
+        "YRTSK_Vehicle_Exoplanet_Rover"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
