@@ -1,15 +1,14 @@
 {
     "is_active_key": 1,
     "ips": [
-        "162.220.160.106"
+        "81.23.154.255"
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Vehicle_Exoplanet_Rover",
-        "YRTSK_Furniture_Pack"
+        "YRTSK_Teleport_System"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
