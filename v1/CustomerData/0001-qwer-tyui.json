@@ -17,7 +17,8 @@
         "YRTSK_Vehicle_Dagor",
         "YRTSK_ExoSoldier",
         "YRTSK_Teleport_System",
-        "YRTSK_Vehicle_Exoplanet_Rover"
+        "YRTSK_Vehicle_Exoplanet_Rover",
+        "YRTSK_Wasp_Fighter"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
