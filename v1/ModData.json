@@ -41,6 +41,24 @@
         },
         "YRTSK_Vehicle_Exoplanet_Rover": {
             "actual_version": -1
+        },
+        "YRTSK_Wasp_Fighter": {
+            "actual_version": -1
+        },
+        "YRTSK_Wasp_Scarab": {
+            "actual_version": -1
+        },
+        "YRTSK_Wasp_Stalker": {
+            "actual_version": -1
+        },
+        "YRTSK_Wasp_Drakos": {
+            "actual_version": -1
+        },
+        "YRTSK_Wasp_Falcon": {
+            "actual_version": -1
+        },
+        "YRTSK_Wasp_Interceptor": {
+            "actual_version": -1
         }
     }
 }
