@@ -9,7 +9,8 @@
         ["test1","project1","name1"]
     ],
     "mods": [
-        "YRTSK_Furniture_Pack"
+        "YRTSK_Furniture_Pack",
+        "YRTSK_Wasp_Falcon"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
