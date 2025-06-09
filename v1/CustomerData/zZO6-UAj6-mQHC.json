@@ -15,7 +15,9 @@
         "YRTSK_Cyborg_Sets",
         "YRTSK_Wasp_Drakos",
         "YRTSK_Wasp_Fighter",
-        "YRTSK_Wasp_Falcon"
+        "YRTSK_Wasp_Falcon",
+        "YRTSK_Wasp_Interceptor",
+        "YRTSK_Wasp_Nomad"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
