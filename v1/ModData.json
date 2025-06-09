@@ -59,6 +59,9 @@
         },
         "YRTSK_Wasp_Interceptor": {
             "actual_version": -1
+        },
+        "YRTSK_Wasp_Nomad": {
+            "actual_version": -1
         }
     }
 }
