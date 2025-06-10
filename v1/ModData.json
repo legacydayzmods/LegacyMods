@@ -62,6 +62,9 @@
         },
         "YRTSK_Wasp_Nomad": {
             "actual_version": -1
+        },
+        "YRTSK_Moto_Mechanic": {
+            "actual_version": -1
         }
     }
 }
