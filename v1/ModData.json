@@ -65,6 +65,24 @@
         },
         "YRTSK_Moto_Mechanic": {
             "actual_version": -1
+        },
+        "YRTSK_Moto_Metropolis": {
+            "actual_version": -1
+        },
+        "YRTSK_Moto_Monstrosity": {
+            "actual_version": -1
+        },
+        "YRTSK_Moto_Motive": {
+            "actual_version": -1
+        },
+        "YRTSK_Moto_Santa": {
+            "actual_version": -1
+        },
+        "YRTSK_Moto_Shark": {
+            "actual_version": -1
+        },
+        "YRTSK_Moto_Warrior": {
+            "actual_version": -1
         }
     }
 }
