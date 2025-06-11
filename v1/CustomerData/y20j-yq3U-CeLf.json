@@ -10,7 +10,13 @@
     "mods": [
         "YRTSK_Furniture_Pack",
         "YRTSK_ExoSoldier",
-        "YRTSK_Vehicle_Exoplanet_Rover"
+        "YRTSK_Vehicle_Exoplanet_Rover",
+        "YRTSK_Wasp_Drakos",
+        "YRTSK_Wasp_Fighter",
+        "YRTSK_Wasp_Interceptor",
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_Wasp_Scarab",
+        "YRTSK_Wasp_Stalker"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
