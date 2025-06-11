@@ -10,7 +10,9 @@
     ],
     "mods": [
         "YRTSK_Covenants_Elite",
-        "YRTSK_Vehicle_Dagor"
+        "YRTSK_Vehicle_Dagor",
+        "YRTSK_Moto_Mechanic",
+        "YRTSK_Moto_Monstrosity"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
