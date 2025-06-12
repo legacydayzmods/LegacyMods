@@ -31,7 +31,8 @@
         "YRTSK_Moto_Motive",
         "YRTSK_Moto_Santa",
         "YRTSK_Moto_Shark",
-        "YRTSK_Moto_Warrior"
+        "YRTSK_Moto_Warrior",
+        "YRTSK_Wasp_Olympus"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
