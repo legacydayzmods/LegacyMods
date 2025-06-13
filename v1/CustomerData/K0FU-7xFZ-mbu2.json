@@ -16,7 +16,8 @@
         "YRTSK_Teleport_System",
         "YRTSK_Moto_Mechanic",
         "YRTSK_Moto_Monstrosity",
-        "YRTSK_Covenants_Elite"
+        "YRTSK_Covenants_Elite",
+        "YRTSK_ExoSoldier"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
