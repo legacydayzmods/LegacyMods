@@ -12,7 +12,10 @@
         "YRTSK_Furniture_Pack",
         "YRTSK_Vehicle_Exoplanet_Rover",
         "YRTSK_Wasp_Fighter",
-        "YRTSK_Moto_Santa"
+        "YRTSK_Moto_Santa",
+        "YRTSK_Wasp_Falcon",
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_Vehicle_Dagor"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
