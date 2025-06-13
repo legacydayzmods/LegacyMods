@@ -9,7 +9,9 @@
     ],
     "mods": [
         "YRTSK_Wasp_Falcon",
-        "YRTSK_Wasp_Stalker"
+        "YRTSK_Wasp_Stalker",
+        "YRTSK_Wasp_Scarab",
+        "YRTSK_Wasp_Drakos"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
