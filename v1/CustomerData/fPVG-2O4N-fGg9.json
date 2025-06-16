@@ -9,7 +9,9 @@
     ],
     "mods": [
         "YRTSK_Vehicle_Dagor",
-        "YRTSK_Moto_Monstrosity"
+        "YRTSK_Moto_Monstrosity",
+        "YRTSK_Wasp_Olympus",
+        "YRTSK_Teleport_System"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
