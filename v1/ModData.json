@@ -86,6 +86,9 @@
         },
         "YRTSK_Wasp_Olympus": {
             "actual_version": -1
+        },
+        "YRTSK_Wasp_Pirate": {
+            "actual_version": -1
         }
     }
 }
