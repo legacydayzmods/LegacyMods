@@ -11,7 +11,19 @@
     ],
     "mods": [
         "YRTSK_Furniture_Pack",
-        "YRTSK_Cyborg_Sets"
+        "YRTSK_Cyborg_Sets",
+        "YRTSK_Vehicle_Dagor",
+        "YRTSK_Wasp_Drakos",
+        "YRTSK_Wasp_Falcon",
+        "YRTSK_Wasp_Fighter",
+        "YRTSK_Wasp_Interceptor",
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_Wasp_Scarab",
+        "YRTSK_Wasp_Stalker",
+        "YRTSK_Moto_Mechanic",
+        "YRTSK_Moto_Metropolis",
+        "YRTSK_Moto_Monstrosity",
+        "YRTSK_Moto_Santa"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
