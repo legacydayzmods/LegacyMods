@@ -10,7 +10,8 @@
     "mods": [
         "YRTSK_Wasp_Falcon",
         "YRTSK_Wasp_Nomad",
-        "YRTSK_Moto_Monstrosity"
+        "YRTSK_Moto_Monstrosity",
+        "YRTSK_Teleport_System"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
