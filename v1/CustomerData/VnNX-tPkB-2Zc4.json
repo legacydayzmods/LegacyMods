@@ -10,7 +10,8 @@
     ],
     "mods": [
         "YRTSK_Wasp_Fighter",
-        "YRTSK_Wasp_Nomad"
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_Wasp_Falcon"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
