@@ -1,4 +1,5 @@
 @echo off
+setlocal enabledelayedexpansion
 echo Пуш репозитория в два места...
 echo.
 
@@ -18,6 +19,19 @@ if errorlevel 1 (
     git remote add gitflic https://gitflic.ru/project/legacy/workshop.git
 ) else (
     echo Remote 'gitflic' уже существует.
+)
+
+echo.
+echo Добавляем изменения в коммит...
+git add .
+git status --porcelain | findstr /R /C:"^[AMDRC]" >nul
+if not errorlevel 1 (
+    set /p commit_message=Введите сообщение коммита: 
+    if "!commit_message!"=="" set commit_message=Auto commit
+    git commit -m "!commit_message!"
+    echo Коммит создан: !commit_message!
+) else (
+    echo Нет изменений для коммита.
 )
 
 echo.
