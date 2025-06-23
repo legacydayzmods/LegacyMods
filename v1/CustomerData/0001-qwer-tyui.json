@@ -33,7 +33,8 @@
         "YRTSK_Moto_Shark",
         "YRTSK_Moto_Warrior",
         "YRTSK_Wasp_Olympus",
-        "YRTSK_Wasp_Pirate"
+        "YRTSK_Wasp_Pirate",
+        "YRTSK_Moto_Gryphon"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
