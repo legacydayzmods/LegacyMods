@@ -22,7 +22,8 @@
         "YRTSK_Wasp_Scarab",
         "YRTSK_Wasp_Stalker",
         "YRTSK_Vehicle_Dagor",
-        "YRTSK_Wasp_Olympus"
+        "YRTSK_Wasp_Olympus",
+        "YRTSK_Hero_Weapon_Pack"
     ],
     "enable_ip_notify": 1,
     "enable_servername_notify": 1,
