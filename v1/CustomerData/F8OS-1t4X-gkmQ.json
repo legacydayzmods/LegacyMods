@@ -1,0 +1,17 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "94.244.35.60",
+        "94.244.45.6"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_Vehicle_Dagor"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}

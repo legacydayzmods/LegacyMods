@@ -1,0 +1,28 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "15.204.141.56"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_Furniture_Pack",
+        "YRTSK_ExoSoldier",
+        "YRTSK_Vehicle_Exoplanet_Rover",
+        "YRTSK_Wasp_Drakos",
+        "YRTSK_Wasp_Fighter",
+        "YRTSK_Wasp_Interceptor",
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_Wasp_Scarab",
+        "YRTSK_Wasp_Stalker",
+        "YRTSK_Vehicle_Dagor",
+        "YRTSK_Moto_Mechanic",
+        "YRTSK_Moto_Monstrosity",
+        "YRTSK_Wasp_Olympus"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}

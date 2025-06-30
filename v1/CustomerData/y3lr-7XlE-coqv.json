@@ -1,0 +1,17 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "38.44.168.7"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_Moto_Warrior"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}

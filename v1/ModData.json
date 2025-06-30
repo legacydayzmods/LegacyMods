@@ -1,5 +1,6 @@
 {
     "engine_data": {
+<<<<<<< HEAD
         "actual_version": 2,
         "enable_chek_ip": 1,
         "enable_chek_servername": 1,
@@ -9,7 +10,7 @@
         "whitelist_only_ip": 0,
         "whitelist_only_servername": 0,
         "whilelist_only_mod": 0,
-        "notification_text": "Тестовая нотификация для всех клиентов"
+        "notification_text": "Test notification for all clients"
     },
     "mods_data": {
         "RewardBoxLite": {
@@ -22,4 +23,18 @@
             "actual_version": -1
         }
     }
+=======
+        "actual_version": 1,
+        "enable_chek_ip": 1,
+        "enable_chek_servername": 0,
+        "enable_ip_notify": 1,
+        "enable_servername_notify": 1,
+        "enable_mod_notify": 1,
+        "whitelist_only_ip": 1,
+        "whitelist_only_servername": 0,
+        "whilelist_only_mod": 1,
+        "notification_text": ""
+    },
+    "mods_data": {}
+>>>>>>> e8de2758b68238f12373c546426288d52deb75ff
 }

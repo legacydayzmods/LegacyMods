@@ -1,0 +1,23 @@
+{
+    "is_active_key": 1,
+    "ips": [
+        "212.22.93.186"
+    ],
+    "names": [
+        ["test","project","name"],
+        ["test1","project1","name1"]
+    ],
+    "mods": [
+        "YRTSK_Wasp_Drakos",
+        "YRTSK_Wasp_Falcon",
+        "YRTSK_Wasp_Fighter",
+        "YRTSK_Wasp_Interceptor",
+        "YRTSK_Wasp_Nomad",
+        "YRTSK_Wasp_Scarab",
+        "YRTSK_Vehicle_Dagor",
+        "YRTSK_Moto_Monstrosity"
+    ],
+    "enable_ip_notify": 1,
+    "enable_servername_notify": 1,
+    "enable_mod_notify": 1
+}
