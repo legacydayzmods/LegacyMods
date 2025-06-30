@@ -1,55 +1,19 @@
 {
     "is_active_key": 1,
     "ips": [
-<<<<<<< HEAD
         "127.0.0.1",
         "127.0.0.2",
         "5.137.56.223",
         "127.0.0.5"
-=======
-        "87.71.11.210"
->>>>>>> e8de2758b68238f12373c546426288d52deb75ff
     ],
     "names": [
         ["test","project","name"],
         ["test1","project1","name1"]
     ],
     "mods": [
-<<<<<<< HEAD
+
         "RewardBoxLite",
         "mod2",
         "mod3"
-=======
-        "YRTSK_Furniture_Pack",
-        "YRTSK_Armory_Pack",
-        "YRTSK_AlienPod",
-        "YRTSK_Cyborg_Sets",
-        "YRTSK_Covenants_Elite",
-        "YRTSK_Hero_Weapon_Pack",
-        "YRTSK_Vehicle_Dagor",
-        "YRTSK_ExoSoldier",
-        "YRTSK_Teleport_System",
-        "YRTSK_Vehicle_Exoplanet_Rover",
-        "YRTSK_Wasp_Fighter",
-        "YRTSK_Wasp_Scarab",
-        "YRTSK_Wasp_Stalker",
-        "YRTSK_Wasp_Drakos",
-        "YRTSK_Wasp_Falcon",
-        "YRTSK_Wasp_Interceptor",
-        "YRTSK_Wasp_Nomad",
-        "YRTSK_Moto_Mechanic",
-        "YRTSK_Moto_Metropolis",
-        "YRTSK_Moto_Monstrosity",
-        "YRTSK_Moto_Motive",
-        "YRTSK_Moto_Santa",
-        "YRTSK_Moto_Shark",
-        "YRTSK_Moto_Warrior",
-        "YRTSK_Wasp_Olympus",
-        "YRTSK_Wasp_Pirate",
-        "YRTSK_Moto_Gryphon"
->>>>>>> e8de2758b68238f12373c546426288d52deb75ff
-    ],
-    "enable_ip_notify": 1,
-    "enable_servername_notify": 1,
-    "enable_mod_notify": 1
+    ]
 }
