@@ -13,9 +13,6 @@
     ],
     "mods": [
 
-        "RewardBoxLite",
-        "RewardBoxMedium",
-        "RewardBoxBig",
-        "RewardBoxFull"
+        "RandomBoxMedium"
     ]
 }
